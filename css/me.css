@@ -7,10 +7,6 @@ img{
   width:100%;
 }
 
-.container{
-  max-width: 80%;
-}
-
 #mainNav {
   font-family: Helvetica, sans-serif;
   min-height: 56px;
@@ -183,11 +179,24 @@ img{
 
 .about-section h5{
   font-family: 'Raleway', sans-serif;
+  font-size:1rem;
 }
 
 .about-section p {
   font-family: 'Open Sans', sans-serif;
   margin-bottom: 5rem;
+}
+
+@media (min-width: 389px) {
+  .about-section h5 {
+    font-size: 1.1rem;
+  }
+}
+
+@media (min-width: 576px) {
+  .about-section h5 {
+    font-size: 1.3rem;
+  }
 }
 
 .box{
