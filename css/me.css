@@ -295,6 +295,10 @@ a:focus, a:hover {
   color: #64a19d !important;
 }
 
+.text-black{
+  color: black;
+}
+
 footer {
   padding: 5rem 0;
 }
