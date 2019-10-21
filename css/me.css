@@ -235,6 +235,20 @@ img{
   padding-left: 5rem;
 }
 
+.values-section{
+  padding: 4rem 0;
+}
+
+.values-section h2{
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5rem;
+}
+
+.values-section h3{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.1rem;
+}
+
 .art-section{
   padding: 4rem 0;
 }
